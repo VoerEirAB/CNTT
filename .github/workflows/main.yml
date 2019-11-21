@@ -1,0 +1,2 @@
+- name: Pull Request Merginator
+  uses: managedkaos/merge-pull-request@v1.0
